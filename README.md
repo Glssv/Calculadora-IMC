@@ -2,6 +2,8 @@
 
 Este projeto permite calcular o Índice de Massa Corporal (IMC) de uma pessoa com base no peso e altura informados. A calculadora foi desenvolvida para ser responsiva, garantindo uma boa experiência de uso em diferentes dispositivos e tamanhos de tela.
 
+você pode acessar o projeto [clicando aqui](https://calculadora-imc-responsiva.netlify.app/) 
+
 ## Tecnologias Utilizadas
 
 - **HTML**: Estrutura básica do site.
